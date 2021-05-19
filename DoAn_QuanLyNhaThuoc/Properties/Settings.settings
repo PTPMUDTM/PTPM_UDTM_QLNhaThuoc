@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DoAn_QuanLyNhaThuoc.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=LAPTOP-12A6R31G\HOANGNAMPC;Initial Catalog=QL_TiemThuocTay;User ID=sa;Password=123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
